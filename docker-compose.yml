@@ -1,0 +1,3 @@
+blog:
+  volumes:
+    - /var/www/data/images:/app/content/images
